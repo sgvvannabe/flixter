@@ -41,6 +41,7 @@ gem 'carrierwave-aws'
 gem 'figaro'
 gem 'stripe'
 gem 'ranked-model'
+gem 'jquery-ui-rails'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
